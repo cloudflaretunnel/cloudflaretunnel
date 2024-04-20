@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="discord">
-    <img src="https://img.discord.dog/315600386230714368?font=Kanit&customStatus=presence&backgroundColor=000000&bar1=000000&bar2=000000&backgroundColor2=000000&edgeRoundness=30&gradientOpacity=5" alt="Discord"/>
+    <img src="https://img.discord.dog/848986275061956620?font=Kanit&customStatus=presence&backgroundColor=000000&bar1=000000&bar2=000000&backgroundColor2=000000&edgeRoundness=30&gradientOpacity=5" alt="Discord"/>
   </a>
 </p>
