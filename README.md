@@ -1,4 +1,6 @@
 # <h1 align="center"> ABOUT ME </h1>
+
+<p>Hey, I'm a software developer from scotland. Message me on discord via (wsgozu) for enquires about business.</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=2000&pause=500&color=57ff00&width=124&lines=hello+user;i'm+ozu!" alt="hello"/>
   <p align="center">
