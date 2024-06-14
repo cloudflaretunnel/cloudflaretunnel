@@ -8,7 +8,3 @@
     <img src="https://skillicons.dev/icons?i=py,html,css,nextjs,react,tailwind&perline=3" alt="Programming Languages Icons"/>
   </div>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=cloudflaretunnel&title_color=ffffff&text_color=ffffff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ffffff&hide_title=true&count_private=true" alt="GitHub Stats"/>
-</p>
